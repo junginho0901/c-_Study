@@ -2,7 +2,7 @@
 //#include<string>
 //using namespace std;
 //int main(void) {
-//	while (1)
+//	while (1) 
 //	{
 //		cout << "?";
 //		char s[200], s1[200], s2[200];
