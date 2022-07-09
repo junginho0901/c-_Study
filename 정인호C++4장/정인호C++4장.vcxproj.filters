@@ -48,5 +48,14 @@
     <ClCompile Include="11번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

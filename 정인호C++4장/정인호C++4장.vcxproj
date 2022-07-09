@@ -145,6 +145,9 @@
   <ItemGroup>
     <ClCompile Include="10번.cpp" />
     <ClCompile Include="11번.cpp" />
+    <ClCompile Include="12번.cpp" />
+    <ClCompile Include="13번.cpp" />
+    <ClCompile Include="15번.cpp" />
     <ClCompile Include="1번.cpp" />
     <ClCompile Include="2번.cpp" />
     <ClCompile Include="3번.cpp" />
