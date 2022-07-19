@@ -144,13 +144,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1-1번.cpp" />
+    <ClCompile Include="10번.cpp" />
+    <ClCompile Include="11번.cpp" />
+    <ClCompile Include="12번cpp.cpp" />
     <ClCompile Include="1번.cpp" />
     <ClCompile Include="2-2번.cpp" />
     <ClCompile Include="2번.cpp" />
     <ClCompile Include="3번.cpp" />
     <ClCompile Include="4번.cpp" />
     <ClCompile Include="5번.cpp" />
+    <ClCompile Include="6번-1.cpp" />
     <ClCompile Include="6번.cpp" />
+    <ClCompile Include="7-1번.cpp" />
+    <ClCompile Include="7번.cpp" />
+    <ClCompile Include="8번.cpp" />
+    <ClCompile Include="9번.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
