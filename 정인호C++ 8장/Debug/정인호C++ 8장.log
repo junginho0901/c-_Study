@@ -1,2 +1,54 @@
-﻿  8번.cpp
-  정인호C++ 8장.vcxproj -> C:\Users\기본값\Desktop\인호 깃파일\정인호C++ 8장\Debug\정인호C++ 8장.exe
+﻿  9번.cpp
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(17): error C2039: 'setTime': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(18): error C2039: 'setTime': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(19): error C2039: 'setTime': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(26): error C2039: 'select_menu': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(26): error C3861: 'select_menu': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(30): error C2039: 'select_time': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(30): error C3861: 'select_time': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(31): error C2039: 'show': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(32): error C2039: 'input_seat_num': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(32): error C3861: 'input_seat_num': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(34): error C2039: 'input_name': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(34): error C3861: 'input_name': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(35): error C2039: 'reserve': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(38): error C2039: 'select_time': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(38): error C3861: 'select_time': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(39): error C2039: 'show': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(40): error C2374: 'seat': 재정의. 여러 번 초기화했습니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(32): note: 'seat' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(40): error C2039: 'input_seat_num': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(40): error C3861: 'input_seat_num': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(42): error C2039: 'input_name': 'Console'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(42): error C3861: 'input_name': 식별자를 찾을 수 없습니다.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(43): error C2039: 'cancel': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(47): error C2039: 'show': 'Schedule'의 멤버가 아닙니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(37): error C2360: 'seat' 초기화가 'case' 레이블에 의해 생략되었습니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(32): note: 'seat' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(45): error C2360: 'seat' 초기화가 'case' 레이블에 의해 생략되었습니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(40): note: 'seat' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(50): error C2360: 'seat' 초기화가 'case' 레이블에 의해 생략되었습니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(40): note: 'seat' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(53): error C2361: 'seat' 초기화가 'default' 레이블에 의해 생략되었습니다.
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(40): note: 'seat' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(59): error C2011: 'Console': 'class' 형식 재정의
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(4): note: 'Console' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(97): error C2011: 'Schedule': 'class' 형식 재정의
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(5): note: 'Schedule' 선언을 참조하십시오.
+c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(127): error C2011: 'Seat': 'class' 형식 재정의
+  c:\users\기본값\desktop\인호 깃파일\정인호c++ 8장\9번.cpp(6): note: 'Seat' 선언을 참조하십시오.
