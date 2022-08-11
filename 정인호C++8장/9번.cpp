@@ -20,7 +20,7 @@ public:
 	}
 	~AirlineBook() { delete[] schedule; }
 	void start() {
-		cout << "한성항공에 오신 것을 환영합니다." << endl;
+		cout << "한성항공에 오신 것을 환영합니다."<< endl;
 		 bool b= 1;
 		while (b) {
 			int menu=Console::select_menu();
@@ -56,6 +56,7 @@ public:
 		}
 	}
 };
+
 class Console {
 	static int menu;
 	static int time;
@@ -124,6 +125,7 @@ public:
 		cout << endl;
 	}
 };
+
 class Seat {
 	string seat = "----";
 public:
