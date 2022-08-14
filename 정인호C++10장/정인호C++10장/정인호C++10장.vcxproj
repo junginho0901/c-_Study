@@ -148,6 +148,9 @@
     <ClCompile Include="3번.cpp" />
     <ClCompile Include="4번.cpp" />
     <ClCompile Include="5번.cpp" />
+    <ClCompile Include="6번.cpp" />
+    <ClCompile Include="7번.cpp" />
+    <ClCompile Include="8번cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
