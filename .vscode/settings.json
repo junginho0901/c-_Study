@@ -3,6 +3,7 @@
         "iosfwd": "cpp",
         "system_error": "cpp",
         "bitset": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "10번": "cpp"
     }
 }
