@@ -146,6 +146,7 @@
     <ClCompile Include="4번.cpp" />
     <ClCompile Include="5번.cpp" />
     <ClCompile Include="6장.cpp" />
+    <ClCompile Include="7번.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
